@@ -1,16 +1,14 @@
-### Hi there 👋
+## PORTFOLIO
 
-<!--
-**gthnmp/gthnmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[gathanmahesa.com](https://gathanmahesa.com)
 
-Here are some ideas to get you started:
+## MAIL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[gathan.mahesa@gmail.com](mailto:gathan.mahesa@gmail.com)  
+
+## SOCIAL
+
+[Instagram](https://www.instagram.com/gthnmp)  
+[Twitter](https://twitter.com/viograce_)  
+[LinkedIn](https://www.linkedin.com/in/gathan-mahesa-4a0789248/)
+[Youtube](https://www.youtube.com/@veroxida/)
