@@ -1,6 +1,6 @@
 ## MAIL
 
-[gathan.mahesa@gmail.com](mailto:gathan.mahesa@gmail.com)  
+[gthnmp@gmail.com](mailto:gthnmp@gmail.com)  
 
 ## SOCIAL
 
