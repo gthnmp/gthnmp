@@ -1,7 +1,3 @@
-## PORTFOLIO
-
-[gathanmahesa.com](https://gathanmahesa.com)
-
 ## MAIL
 
 [gathan.mahesa@gmail.com](mailto:gathan.mahesa@gmail.com)  
