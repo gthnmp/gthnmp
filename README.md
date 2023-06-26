@@ -3,7 +3,7 @@
 
 ## MAIL
 
-[gthnmp@gmail.com](mailto:gthnmp@gmail.com)  
+[gathan.mahesa@gmail.com](mailto:gathan.mahesa@gmail.com)  
 
 ## SOCIAL
 
