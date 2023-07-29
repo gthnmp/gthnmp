@@ -8,5 +8,5 @@
 ## SOCIAL
 
 [Instagram](https://www.instagram.com/gthnmp)  
-[Twitter](https://twitter.com/viograce_)  
+[Twitter](https://twitter.com/gathanmahesa)  
 [Linkedin](https://www.linkedin.com/in/gathan)  
