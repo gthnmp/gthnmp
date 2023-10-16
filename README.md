@@ -1,8 +1,8 @@
 ## WORKS
 
-[1. Personal Website](https://gathan.vercel.app)  
-[2. Rafly Fathurrahman](https://reman.vercel.app)  
-[3. A Timeless Heritage](https://batavia.vercel.app)
+[1. Personal Website](https://gathan.vercel.app) <br/>
+[2. Rafly Fathurrahman](https://reman.vercel.app) <br/> 
+[3. A Timeless Heritage](https://batavia.vercel.app) <br/>
 [4. Personal Blog/Journal Site](https://journal-gathan.vercel.app)
 ## MAIL
 
