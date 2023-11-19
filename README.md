@@ -7,7 +7,8 @@
 
 ## MAIL
 
-[gathan.mahesa@gmail.com](mailto:gathan.mahesa@gmail.com)  
+[1. mail@gmahesa.com](mailto:mail@gmahesa.com) <br/> 
+[2. gathan.mahesa@gmail.com](mailto:gathan.mahesa@gmail.com) <br/>
 
 ## SOCIAL
 
