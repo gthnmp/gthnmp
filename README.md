@@ -15,6 +15,3 @@
 [Instagram](https://www.instagram.com/gthnmp)  
 [Twitter](https://twitter.com/gathanmahesa)  
 [Linkedin](https://www.linkedin.com/in/gathan)  
-
-## STATUS
-Currently studying for SNBT 🙏
