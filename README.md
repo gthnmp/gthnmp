@@ -5,12 +5,7 @@
 [4. Personal Blog/Journal Site](https://blog.gmahesa.com) <br />
 [5. Curriculum Vitae](https://github.com/gthnmp/cv)
 
-## MAIL
 
-[1. mail@gmahesa.com](mailto:me@gmahesa.com) <br/> 
+## Contact
 
-## SOCIAL
-
-[Instagram](https://www.instagram.com/gthnmp)  
-[Twitter](https://twitter.com/gathanmahesa)  
-[Linkedin](https://www.linkedin.com/in/gathan)  
+Feel free to mail me at [gathan@whnl.ent](mailto:gathan@whnl.net) <br/> 
