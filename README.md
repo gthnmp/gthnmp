@@ -8,4 +8,4 @@
 
 ## Contact
 
-Feel free to mail me at [gathan@whnl.ent](mailto:gathan@whnl.net) <br/> 
+Feel free to mail me at [contact@gmahesa.com](mailto:contact@gmahesa.com) <br/> 
